@@ -134,3 +134,9 @@ python main.py
 3. 增加3D重建功能，提供更直观的可视化
 4. 增加病例管理系统，支持患者历史跟踪
 5. 开发云端部署版本，支持远程诊断
+
+
+
+###获取完整项目代码请联系qq：2122384040
+<img width="1797" height="990" alt="f5a51f7fe9089c0b84fc62caf1924311" src="https://github.com/user-attachments/assets/567ecae4-97f3-4282-8e65-98ce4405917a" />
+
